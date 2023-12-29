@@ -1,0 +1,9 @@
+C:\Desarrollos\Encryptador\Encryptador\bin\Debug\Encryptador.exe.config
+C:\Desarrollos\Encryptador\Encryptador\bin\Debug\Encryptador.exe
+C:\Desarrollos\Encryptador\Encryptador\bin\Debug\Encryptador.pdb
+C:\Desarrollos\Encryptador\Encryptador\obj\Debug\Encryptador.Form1.resources
+C:\Desarrollos\Encryptador\Encryptador\obj\Debug\Encryptador.Properties.Resources.resources
+C:\Desarrollos\Encryptador\Encryptador\obj\Debug\Encryptador.csproj.GenerateResource.cache
+C:\Desarrollos\Encryptador\Encryptador\obj\Debug\Encryptador.exe
+C:\Desarrollos\Encryptador\Encryptador\obj\Debug\Encryptador.pdb
+C:\Desarrollos\Encryptador\Encryptador\obj\Debug\Encryptador.csprojResolveAssemblyReference.cache
